@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b4"
+  },
+  "Acrónimo": "CHN",
+  "Nombre Completo": "China",
+  "Continente": "Asia"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b5"
+  },
+  "Acrónimo": "ECU",
+  "Nombre Completo": "Ecuador",
+  "Continente": "América"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b6"
+  },
+  "Acrónimo": "DOM",
+  "Nombre Completo": "República Dominicana",
+  "Continente": "América"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b7"
+  },
+  "Acrónimo": "MGL",
+  "Nombre Completo": "Mongolia",
+  "Continente": "Asia"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b8"
+  },
+  "Acrónimo": "FRA",
+  "Nombre Completo": "Francia",
+  "Continente": "Europa"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1b9"
+  },
+  "Acrónimo": "USA",
+  "Nombre Completo": "United States of America",
+  "Continente": "América"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1ba"
+  },
+  "Acrónimo": "VEN",
+  "Nombre Completo": "Venezuela",
+  "Continente": "América"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1bb"
+  },
+  "Acrónimo": "MDA",
+  "Nombre Completo": "Moldova",
+  "Continente": "Europa"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1bc"
+  },
+  "Acrónimo": "KOR",
+  "Nombre Completo": "South Korea",
+  "Continente": "Asia"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1bd"
+  },
+  "Acrónimo": "ESP",
+  "Nombre Completo": "España",
+  "Continente": "Europa"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1be"
+  },
+  "Acrónimo": "CMR",
+  "Nombre Completo": "Cameroon",
+  "Continente": "Africa"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1bf"
+  },
+  "Acrónimo": "BRA",
+  "Nombre Completo": "Brazil",
+  "Continente": "América"
+},
+{
+  "_id": {
+    "$oid": "663e8830c5912e97025bb1c0"
+  },
+  "Acrónimo": "NZL",
+  "Nombre Completo": "New Zealand",
+  "Continente": "Oceania"
+}]

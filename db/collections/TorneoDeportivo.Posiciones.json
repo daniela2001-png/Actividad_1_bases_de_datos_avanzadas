@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb196"
+  },
+  "Equipo": "CHN",
+  "Puntaje": 270,
+  "Posición": 1
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb197"
+  },
+  "Equipo": "ECU",
+  "Puntaje": 263,
+  "Posición": 2
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb198"
+  },
+  "Equipo": "DOM",
+  "Puntaje": 256,
+  "Posición": 3
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb199"
+  },
+  "Equipo": "MGL",
+  "Puntaje": 252,
+  "Posición": 4
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19a"
+  },
+  "Equipo": "FRA",
+  "Puntaje": 247,
+  "Posición": 5
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19b"
+  },
+  "Equipo": "USA",
+  "Puntaje": 246,
+  "Posición": 6
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19c"
+  },
+  "Equipo": "VEN",
+  "Puntaje": 242,
+  "Posición": 7
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19d"
+  },
+  "Equipo": "MDA",
+  "Puntaje": 240,
+  "Posición": 8
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19e"
+  },
+  "Equipo": "KOR",
+  "Puntaje": 231,
+  "Posición": 9
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb19f"
+  },
+  "Equipo": "ESP",
+  "Puntaje": 225,
+  "Posición": 10
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb1a0"
+  },
+  "Equipo": "CMR",
+  "Puntaje": 224,
+  "Posición": 11
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb1a1"
+  },
+  "Equipo": "BRA",
+  "Puntaje": 215,
+  "Posición": 12
+},
+{
+  "_id": {
+    "$oid": "663e8647c5912e97025bb1a2"
+  },
+  "Equipo": "NZL",
+  "Puntaje": 206,
+  "Posición": 13
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663e8683c5912e97025bb1a5"
+  },
+  "nombre": "Cristina Morelos",
+  "edad": "43",
+  "deportista": "Tamara Yajaira Salazar Arce",
+  "pais": "ECU"
+},
+{
+  "_id": {
+    "$oid": "663e8683c5912e97025bb1a6"
+  },
+  "nombre": "Chan Euwoon",
+  "edad": "45",
+  "deportista": "Zhouyu Wang",
+  "pais": "CHN"
+},
+{
+  "_id": {
+    "$oid": "663e8683c5912e97025bb1a7"
+  },
+  "nombre": "Ana Romero",
+  "edad": "40",
+  "deportista": "Cismery Dominga Santana Peguero",
+  "pais": "DOM"
+},
+{
+  "_id": {
+    "$oid": "663e8683c5912e97025bb1a8"
+  },
+  "nombre": "Alphonse Bastian",
+  "edad": "38",
+  "deportista": "Gaelle Verlaine Nayo Ketchanke",
+  "pais": "FRA"
+},
+{
+  "_id": {
+    "$oid": "663e8683c5912e97025bb1a9"
+  },
+  "nombre": "Maria Bigatti",
+  "edad": "39",
+  "deportista": "Jaqueline Antonia Ferreira",
+  "pais": "BRA"
+}]

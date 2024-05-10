@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb16b"
+  },
+  "Nombre": "Zhouyu Wang",
+  "Equipo": "CHN",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 29
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb16c"
+  },
+  "Nombre": "Tamara Yajaira Salazar Arce",
+  "Equipo": "ECU",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 26
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb16d"
+  },
+  "Nombre": "Cismery Dominga Santana Peguero",
+  "Equipo": "DOM",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb16e"
+  },
+  "Nombre": "Ankhtsetseg Munkhjantsan",
+  "Equipo": "MGL",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 27
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb16f"
+  },
+  "Nombre": "Gaelle Verlaine Nayo Ketchanke",
+  "Equipo": "FRA",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb170"
+  },
+  "Nombre": "Martha Ann Rogers",
+  "Equipo": "USA",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 28
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb171"
+  },
+  "Nombre": "Naryury Alexandra Perez Reveron",
+  "Equipo": "VEN",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 29
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb172"
+  },
+  "Nombre": "Elena Cilcic",
+  "Equipo": "MDA",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 27
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb173"
+  },
+  "Nombre": "Yeounhee Kang",
+  "Equipo": "KOR",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb174"
+  },
+  "Nombre": "Lydia Valentin Perez",
+  "Equipo": "ESP",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 25
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb175"
+  },
+  "Nombre": "Clementine Meukeugni Noumbissi",
+  "Equipo": "CMR",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 23
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb176"
+  },
+  "Nombre": "Jaqueline Antonia Ferreira",
+  "Equipo": "BRA",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 24
+},
+{
+  "_id": {
+    "$oid": "663e8508c5912e97025bb177"
+  },
+  "Nombre": "Kanah Andrews-Nahu",
+  "Equipo": "NZL",
+  "Deporte": "Halterofilia",
+  "Categoría": "87kg Femenino",
+  "Edad": 25
+}]
