@@ -5,6 +5,6 @@ Colecciones y documentos de la base de datos noSQL correspondientes a la Activid
 Integrantes:
 
 
-Yeinmy Daniela Morales Barrera
-Deivid Rojas
-Luis Carlos Castiblanco
+- Yeinmy Daniela Morales Barrera\n
+- Deivid Rojas \n
+- Luis Carlos Castiblanco \n
